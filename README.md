@@ -36,7 +36,7 @@ python app_qa.py
 
 For further details, check the specific scripts under the P1-P4 sections.
 
-Usage
+## Usage
 
 Once the project is set up, you can use the Streamlit interface to interact with the RAG-based chatbot:
 
@@ -44,7 +44,7 @@ streamlit run app_qa.py
 
 This will start the web application, where you can input your queries, and the system will retrieve relevant documents and generate a response based on the information from the knowledge base.
 
-Directory Structure
+## Directory Structure
 
 Here is an overview of the project directory structure:
 
@@ -64,11 +64,11 @@ LangChain-RAG-Project/
 │   └── 02_Chatbot_App.py
 ├── README.md
 └── requirements.txt
-License
+## License
 
 This project is licensed under the MIT License - see the LICENSE
  file for details.
 
-Acknowledgments
+## Acknowledgments
 Special thanks to the LangChain team and OpenAI for providing the frameworks and models used in this project.
 The project draws inspiration from Retrieval-Augmented Generation (RAG) techniques.
