@@ -21,7 +21,6 @@ This project utilizes **LangChain** to build **Retrieval-Augmented Generation (R
 - Python 3.7 or higher
 - Install the required libraries using `pip`:
 
-```bash
 pip install -r requirements.txt
 Running the Project
 
